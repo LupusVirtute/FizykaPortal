@@ -2,6 +2,7 @@
 import BodyMomentum from "./Calculations/BodyMomentum.svelte";
 
 import Friction from "./Calculations/Friction.svelte";
+import Speed from "./Calculations/Speed.svelte";
 
 import SpeedForce from "./Calculations/SpeedForce.svelte";
 
@@ -10,7 +11,8 @@ import SpeedForce from "./Calculations/SpeedForce.svelte";
 	let components = [
 		SpeedForce,
 		Friction,
-		BodyMomentum
+		BodyMomentum,
+		Speed
 	];
 
 </script>
