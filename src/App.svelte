@@ -1,4 +1,6 @@
 <script lang="ts">
+import BodyMomentum from "./Calculations/BodyMomentum.svelte";
+
 import Friction from "./Calculations/Friction.svelte";
 
 import SpeedForce from "./Calculations/SpeedForce.svelte";
@@ -7,7 +9,8 @@ import SpeedForce from "./Calculations/SpeedForce.svelte";
 
 	let components = [
 		SpeedForce,
-		Friction
+		Friction,
+		BodyMomentum
 	];
 
 </script>
