@@ -4,7 +4,7 @@
     $: T = f*fN;
 </script>
 
-<h2>Siła ruchu jednostajnie przyśpieszona</h2>
+<h2>Siła tarcia</h2>
 <h3> T = f * Fn </h3>
 
 Współczynnik tarcia (f) : <input type="Number" bind:value={f}/> <br/>
