@@ -1,10 +1,13 @@
 <script lang="ts">
+import Friction from "./Calculations/Friction.svelte";
+
 import SpeedForce from "./Calculations/SpeedForce.svelte";
 
 
 
 	let components = [
-		SpeedForce
+		SpeedForce,
+		Friction
 	];
 
 </script>
