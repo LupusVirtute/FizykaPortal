@@ -9,4 +9,4 @@
 
 Współczynnik tarcia (f) : <input type="Number" bind:value={f}/> <br/>
 Siła nacisku (Fn) <input type="Number" bind:value={fN}/> <br/>
-Siła tarcia (T) {T}N<br/>
+Siła tarcia (T) <span>{T}N</span><br/>

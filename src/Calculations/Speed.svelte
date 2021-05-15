@@ -9,4 +9,4 @@
 
 Przyśpieszenie (a) : <input type="Number" bind:value={a}/> <br/>
 Czas (t) <input type="Number" bind:value={t}/> <br/>
-Prędkość (v) {v} (m/s)<br/>
+Prędkość (v) <span>{v} (m/s)</span><br/>

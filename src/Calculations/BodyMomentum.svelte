@@ -9,4 +9,4 @@
 
 Masa Ciała (m) : <input type="Number" bind:value={m}/> <br/>
 Prędkośc (v) <input type="Number" bind:value={v}/> <br/>
-Pęd (p) {p} kg * (m/s)<br/>
+Pęd (p) <span>{p} kg * (m/s)</span><br/>

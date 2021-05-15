@@ -9,4 +9,4 @@
 
 Masa Ciała (m) : <input type="Number" bind:value={m}/> <br/>
 Przyśpieszenie ciała(a) <input type="Number" bind:value={a}/> <br/>
-Siła ruchu jednostajnie przyśpieszonym (F) {f}N<br/>
+Siła ruchu jednostajnie przyśpieszonym (F) <span>{f}N</span><br/>
