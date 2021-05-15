@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1> Portal Fizyczny</h1>
+	<h1>Portal Fizyczny</h1>
 </main>
 
 <style>
