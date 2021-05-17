@@ -1,11 +1,11 @@
 <script>
-    // p = m*v
+    // Ep = m * g * h
     let m=0,g=10,h=0;
     $: Ep = m*g*h;
 </script>
 
 <h2>Energia potencjalna ciężkości</h2>
-<h3>p = m * v</h3>
+<h3>Ep = m * g * h</h3>
 
 Masa Ciała (m) : <input type="Number" bind:value={m}/> <br/>
 Przyśpieszenie ziemskie (g) <input type="Number" bind:value={g}/> <br/>
